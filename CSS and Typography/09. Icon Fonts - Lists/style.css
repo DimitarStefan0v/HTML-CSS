@@ -1,0 +1,10 @@
+@import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
+
+ul {
+    list-style-type: none;
+    margin: 50px 25px;
+}
+
+i {
+    padding-right: 5px;
+}
