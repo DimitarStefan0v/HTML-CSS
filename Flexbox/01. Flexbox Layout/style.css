@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    background: #EFEFEF;
+    font-family: Helvetica, sans-serif;
+    padding: 100px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+header, main, aside, footer {
+    box-shadow: 1px 1px 11px -2px black;
+    background: white;
+    text-transform: uppercase;
+    border-radius: 12px;
+}
+
+main, aside {
+    margin: 20px 0;
+    padding: 10px 10px 200px 10px;
+}
+
+main {
+    margin-right: 20px;
+    flex-grow: 3;
+}
+
+aside {
+    flex-grow: 1;
+}
+
+header {
+    padding: 10px 10px 70px 10px;
+    flex-basis: 100%;
+}
+
+footer {
+    padding: 10px 10px 50px 10px;
+    flex-basis: 100%;
+}

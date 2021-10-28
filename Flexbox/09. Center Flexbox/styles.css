@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background: rgb(238, 238, 238);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.card {
+    background: rgb(255, 255, 255);
+    border-radius: 12px;
+    padding: 12px;
+    box-shadow: 1px 1px 11px -2px black;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+p {
+    font-family: Helvetica, sans-serif;
+}
