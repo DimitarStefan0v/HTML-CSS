@@ -367,3 +367,5 @@ FodyWeavers.xsd
 *.docx
 /Exam Preparation (HTML & CSS Exam - 01 November 2020)/02. Typify/assets/css/font-awesome.min.css
 /Exam Preparation (HTML & CSS Exam - 01 November 2020)/02. Typify/assets/fonts
+*.DS_Store
+*.jpeg
